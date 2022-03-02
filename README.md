@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @opahwi, formaly known as Hibbe Wiersma
+- 👀 I’m interested in a lot of things, mainly creating webpages or projects for single users
+- 🌱 I’m currently learning to work with python on a Raspberry PI 4, creating a "quiz-table" for pleasent evenings
+- 📫 How to reach me: the easy way is just by mail: info@moriatdm.nl
